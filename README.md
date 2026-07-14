@@ -1,10 +1,10 @@
-# 🧠 Deep-Learning-Journey
+# Deep-Learning-Journey
 
 A comprehensive collection of **Deep Learning concepts, architectures, projects, and practical implementations** documenting my learning journey from **artificial neural networks to advanced deep learning techniques**.
 
 This repository serves as a structured roadmap covering essential deep learning topics used in **computer vision, image classification, predictive analytics, natural language processing, and intelligent systems applications**. Each notebook focuses on building practical skills through hands-on implementation, model development, training optimization, and performance evaluation.
 
-## 📚 Topics Covered
+## Topics Covered
 
 ### Neural Network Fundamentals
 
@@ -60,11 +60,11 @@ This repository serves as a structured roadmap covering essential deep learning 
 * Real-World Deep Learning Projects
 * Model Optimization and Deployment
 
-## 🎯 Repository Goal
+## Repository Goal
 
 The purpose of this repository is to strengthen deep learning skills through continuous learning, practical implementation, and project development while building a strong foundation in neural networks, computer vision, and intelligent systems.
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * Python
 * Jupyter Notebook
